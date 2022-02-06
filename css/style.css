@@ -1,0 +1,22 @@
+body {
+  background: #263238;
+  text-align: center;
+  color: #b8bfc6;
+}
+.header {
+  color: #e7ebee;
+  box-sizing: border-box;
+  break-after: avoid-page;
+  break-inside: avoid;
+  orphans: 4;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  #mindmap {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+  }
